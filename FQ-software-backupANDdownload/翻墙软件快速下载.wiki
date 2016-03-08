@@ -1,0 +1,42 @@
+'''翻墙软件快速下载''',方便新系统或者新手机【免翻墙】下载翻墙软件
+
+<br>(.apk)=Android
+<br>(.exe)=Windows
+<br>(.deb)=Debina(Ubuntu/Mint)
+<br>(.deg)= OS X
+
+
+
+== link ==
+
+* 蓝灯（lantern)
+https://github.com/getlantern/lantern/
+
+https://github.com/getlantern/lantern/blob/devel/README.md
+* 赛风（psiphon3）
+https://s3.amazonaws.com/f58p-mqce-k1yj/zh.html
+* 自由浏览器（FreeBrowser）
+https://github.com/greatfire/wiki
+
+== Download link ==
+
+不保证最新
+* 蓝灯
+* [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe Windows XP SP 3 and above]
+* [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg OSX 10.8 and above]
+* [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta-32-bit.deb Ubuntu 14.04 32 bit]
+* [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta-64-bit.deb Ubuntu 14.04 64 bit]
+* [https://aur.archlinux.org/packages/lantern Arch Linux]
+
+* 赛风
+* https://s3.amazonaws.com/f58p-mqce-k1yj/psiphon3.exe
+* https://s3.amazonaws.com/f58p-mqce-k1yj/PsiphonAndroid.apk
+
+* 自由浏览器
+* https://github.com/greatfire/z/raw/master/FreeBrowser.apk
+
+== test ==
+
+<br>自由门和无界，坐等淘汰。日本筑波大学的VPNGate（maybe因为是Jpanese研发的，引起GFW的某种抗日情节，被大力封锁）。
+<br>其他免费且长期提供的翻墙软件，请各位不惜一切代价地提供（信息）给我们。
+<br>真正地将欢乐share给更多人。
