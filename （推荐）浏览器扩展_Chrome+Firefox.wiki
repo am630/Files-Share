@@ -1,0 +1,271 @@
+
+== chrome ==
+[https://chrome.google.com/webstore/category/apps?hl=zh-CN Chrome 网上应用店 - 应用]
+
+=== 分类一 ===
+
+[https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom AdBlock【广告屏蔽】]
+
+[https://chrome.google.com/webstore/detail/proxy-switchysharp/dpplabbmogkhghncfbfdeeokoefdjegm?utm_source=chrome-ntp-icon  Proxy SwitchySharp【代理切换】]
+
+[https://chrome.google.com/webstore/detail/speed-dial-fvd-new-tab-pa/llaficoajjainaijghjlofdfmbjpebpa?utm_source=webstore-app&utm_medium=awesome-new-tab-page Speed Dial [FVD]【新标签页增强】]
+
+[https://chrome.google.com/webstore/detail/drag-and-go/jaikcnhlohebodlpkmjepipngegjbfpg 超级拖曳【拖拽和鼠标手势】]
+
+[https://chrome.google.com/webstore/detail/stylist/pabfempgigicdjjlccdgnbmeggkbjdhd?utm_source=chrome-ntp-icon Stylist【网页背景色设置】]
+
+[https://chrome.google.com/webstore/detail/hd-for-youtube/akjbfncbadcmnkopckegnmjgihagponf HD for YouTube]
+
+=== 未分类 ===
+
+[https://chrome.google.com/webstore/detail/downloads/ngbcgifdaopbfflfhbcfeomijfbbcadi/related?utm_source=chrome-ntp-icon Downloads]
+
+[https://chrome.google.com/webstore/detail/html5-video-for-youtube/dolajcekhnohkpncmhgledbmndjpblei?utm_source=webstore-app&utm_medium=awesome-new-tab-page HTML5 Video for YouTube]
+
+[https://chrome.google.com/webstore/detail/video-download/dacoiknafinklohdbidcejfbpokabaic?utm_source=chrome-ntp-icon Video Download]
+
+[http://mandel-design.xf.cz/Chrome-Youtube-Downloader/ Chrome YouTube Downloader]
+
+[https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif?utm_source=webstore-app&utm_medium=awesome-new-tab-page&hl=zh-CN Magic Actions for YouTube]
+
+[https://chrome.google.com/webstore/detail/easy-video-downloader-exp/ieopjbbnpckbnjbbaeiiokafghfincdh Easy Video Downloader Express【支持YT1080视频下载】]
+
+[http://kwizzu.com/ YouTube downloader tool - Fastesttube!]
+
+[https://chrome.google.com/webstore/detail/xmarks-bookmark-sync/ajpgkpeckebdhofmmjfgcjjiiejpodla?utm_source=chrome-ntp-icon Xmarks Bookmark Sync]
+
+[https://userscripts.org/scripts/show/62634　YouTube Video Download for Greasemonkey]
+
+[https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc 印象笔记·剪藏]
+
+[https://chrome.google.com/webstore/detail/flag-for-chrome/dbpojpfdiliekbbiplijcphappgcgjfn Flag for Chrome]
+
+[http://tampermonkey.net/ Tampermonkey - the most popular userscript manager for Blink-based browsers]
+
+[https://userscripts.org/scripts/show/125473 Google Real Link for Greasemonkey]
+
+[https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg User-Agent Switcher for Chrome]
+
+[https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod?utm_source=webstore-app&utm_medium=awesome-new-tab-page Click&Clean【缓存清理】]
+
+[https://chrome.google.com/webstore/detail/instagram-for-chrome/opnbmdkdflhjiclaoiiifmheknpccalb  Instagram for Chrome]
+
+[https://chrome.google.com/webstore/detail/view-original-size-image/nkkdbkckhkoiahnjhakihonekfhconan  View original size image for Picasa]
+
+[https://chrome.google.com/webstore/detail/double-click-closes-tab/megplcpdkmjjoondippkedoaidkeikcm Double Click Closes Tab【双击页面空白处关闭标签页】]
+
+[https://chrome.google.com/webstore/detail/clickable-links/mblbciejcodpealifnhfjbdlkedplodp?utm_source=chrome-ntp-icon&hl=zh-CN Clickable Links]
+
+[https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?utm_source=chrome-ntp-icon HTTPS Everywhere]
+
+[http://64px.com/webpage-screenshot/bdfnieppndfdhcgbmhfdlgdjegclkomk/install 64像素 - 网页截图]
+
+[https://chrome.google.com/webstore/detail/ios-7-new-tab-page/nhbfhddhlcdaijmhfngbpihbhnbhjhgj?utm_source=webstore-app&utm_medium=awesome-new-tab-page  IOS 7 New Tab Page]
+
+[https://chrome.google.com/webstore/detail/speed-dial-2/jpfpebmajhhopeonhlcgidhclcccjcik?utm_source=webstore-app&utm_medium=awesome-new-tab-page Speed Dial 2]
+
+[https://chrome.google.com/webstore/detail/instagram-for-chrome-plus/lengmnbafiinbbhoempdahogkbjbfmla  Instagram for Chrome Plus]
+
+[https://chrome.google.com/webstore/detail/awesome-new-tab-page/mgmiemnjjchgkmgbeljfocdjjnpjnmcg?utm_source=webstore-app&utm_medium=awesome-new-tab-page Awesome New Tab Page]
+
+[https://chrome.google.com/webstore/detail/foxtab-speed-dial/dchmpbaclbiioedakpcldenooikekokm?utm_source=webstore-app&utm_medium=awesome-new-tab-page Foxtab Speed Dial]
+
+[https://chrome.google.com/webstore/detail/new-metrotab/oogmkbpkoblajkomflhkkdmbfggdmefd?utm_source=webstore-app&utm_medium=awesome-new-tab-page new metroTab]
+
+[https://chrome.google.com/webstore/detail/smooth-gestures/lfkgmnnajiljnolcgolmmgnecgldgeld 平滑手势]
+
+[https://chrome.google.com/webstore/detail/screen-capture-by-google/cpngackimfmofbokmjmljamhdncknpmg?utm_source=chrome-ntp-icon 网页截图（由Google提供）]
+
+[https://chrome.google.com/webstore/detail/pig-toolbox-super-gesture/oiplkfaidhjklglajdpfehoagkmlcakh?utm_source=chrome-ntp-icon Pig Toolbox (Super Gestures)]
+=== 密码管理 ===
+
+[https://www.dashlane.com/ Best Password Manager, Free Form Filler, Secure Digital Wallet | Dashlane]
+
+[https://chrome.google.com/webstore/detail/dashlane/jmpplnklgealmmnncbdpehifojcfomaf Chrome Web Store - Dashlane]
+
+[https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?hl=zh-CN LastPass: Free Password Manager]
+
+[https://chrome.google.com/webstore/detail/passwordbox-free-password/dljbcjbfojhlfhgenhepllagfecdpchb?utm_source=chrome-ntp-icon PasswordBox - Free Password Manager]
+
+[https://chrome.google.com/webstore/detail/1password-password-manage/aomjjhallfgjeglblehebfpbcfeobpgk?utm_source=chrome-ntp-icon　1Password: Password Manager and Secure Wallet]
+
+=== Tampermonkey 脚本 ===
+
+[https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo  Tampermonkey【脚本管理】](油猴)
+
+[https://github.com/YePpHa/YouTubeCenter/wiki GitHub【YouTube增强设置】]
+
+[http://en.savefrom.net/user.php Youtube Downloader【支持多站视频下载】]
+
+
+
+
+
+<br>
+
+
+<br>
+
+
+
+
+== firefox ==
+附加组件是一种通过增添额外的功能或样式让您实现个性化 Firefox 的应用程序。试试用可以节省时间的侧边栏、天气通知程序或主题外观来打造您的专属 Firefox 吧。 [https://addons.mozilla.org/zh-CN/firefox/ 了解更多]
+
+=== 火狐浏览器 ===
+[about:config about:config【高级设置·慎用】]
+
+[about:about 关于 about]
+
+[about:cache 【查看缓存】Information about the Cache Service]
+
+[about:plugins 关于插件]
+
+[about:support 故障排除信息]
+
+[https://www.mozilla.org/zh-CN/plugincheck/ 插件检查和更新 — Mozilla]
+
+[https://addons.mozilla.org/zh-CN/firefox/ Firefox 附加组件中心]
+
+[https://addons.mozilla.org/zh-CN/firefox/extensions/ 精选扩展 :: Firefox 附加组件]
+
+
+=== 其他 ===
+[http://www.freebuf.com/tools/5361.html 34款Firefox渗透测试插件 - FreeBuf.COM]
+
+[https://addons.mozilla.org/zh-cn/firefox/addon/autoproxy/ AutoProxy代理管理]
+
+=== 火狐原版和PE ===
+[https://www.mozilla.org/en-US/firefox/organizations/ Firefox ESR（长期支持版本）]
+
+[http://nightly.mozilla.org/ Firefox Nightly Builds]
+
+[ftp://ftp.mozilla.org/pub/firefox/releases/]的索引
+
+[http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ Index of /pub/mozilla.org/firefox/releases]
+
+[http://releases.mozilla.org/pub/mozilla.org/firefox/releases/ Index of /pub/mozilla.org/firefox/releases]
+
+[http://portableapps.com/apps/internet/firefox_portable Mozilla Firefox, Portable Edition | PortableApps.com - Portable software for USB, portable and cloud drives]
+
+[http://www.mozilla.org/en-US/firefox/all/ Mozilla Firefox Web Browser — Download Firefox in your language — Mozilla]
+
+[http://portableapps.com/apps/internet/firefox_portable/localization PortableApps.com - firefox_portable/localization]
+
+
+=== 常用 ===
+[https://addons.mozilla.org/zh-CN/firefox/addon/greasemonkey/ greasemonkey-油猴]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/adblock-plus/ Adblock Plus ::【屏蔽广告】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-basic/ FoxyProxy Basic :: 【代理扩展FoxyProxy的基础版】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/foxyproxy-standard/ FoxyProxy Standard :: 【代理切换】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/autoproxy/ AutoProxy ::【代理自动切换】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/lastpass-password-manager/ LastPass Password Manager ::【密码管理】]
+
+
+=== 翻译 ===
+[https://addons.mozilla.org/zh-CN/firefox/addon/google-translator-for-firefox/ Google Translator for Firefox :: 【网页翻译】]
+
+[https://addons.mozilla.org/zh-cn/firefox/addon/gtranslator/ gTranslator ::【谷歌翻译】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/s3google-translator/ S3.Google Translator :: 【翻译】]
+
+[https://addons.mozilla.org/zh-TW/firefox/addon/s3google-translator/ S3.Google Translator :: Firefox 附加元件]
+
+
+
+=== 显示效果 ===
+[https://addons.mozilla.org/zh-CN/firefox/addon/flagfox/ Flagfox :: 【显示描述当前服务器位置的国旗】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/speed-dial/ Speed Dial :: 【新标签页美化】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/tab-utilities/ Tab Utilities ::【标签页增强】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/fvd-speed-dial/ FVD Speed Dial with Full Online Sync]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/super-start/ Super Start]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/tab-mix-plus/ Tab Mix Plus :: 【标签页增强】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/default-fullzoom-level/ Default FullZoom Level :: 【页面缩放】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/toolbar-buttons/ Toolbar Buttons :: 【增加工具栏按钮】]
+
+
+=== 安全与隐私 ===
+[https://addons.mozilla.org/zh-CN/firefox/addon/noscript/ NoScript]
+
+[http://www.hotcleaner.com/clickclean_firefox.html Click&Clean 官网【清除浏览历史】]
+
+[https://addons.mozilla.org/zh-cn/firefox/addon/clickclean/ Click&Clean ::【清除浏览历史】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/googlesharing/?src=userprofile GoogleSharing :: 【让用户在使用 Firefox 与 Google 的通信中完全匿名】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/modify-headers/ Modify Headers :: 【修改HTTP请求头】]
+
+[http://chrispederick.com/work/user-agent-switcher/ User Agent Switcher 官网【伪装浏览器和系统】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/user-agent-switcher/ User Agent Switcher :: 【伪装浏览器和系统】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/ip-address-and-domain-info/ IP Address and Domain Information :: Firefox 附加组件]
+
+[https://www.eff.org/https-everywhere/ HTTPS Everywhere ::【强制网页HTTPS加密浏览】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/httptohttps/versions/?page=1#version-1.0.7 HTTPtoHTTPS ::【浏览模式切换·手动】]
+
+
+=== 下载 ===
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/1-click-youtube-video-downl/?src=search 1-Click YouTube Video Download :: 【YouTube视频下载】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/youtube-center/ YouTube Center :: 【YouTube设置】]
+
+[https://addons.mozilla.org/en-US/firefox/addon/proxmate/ ProxMate :: 【解除YouTube某些视频的地区限制】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/youtube-unblocker/ YouTube Unblocker]
+
+[http://en.savefrom.net/user.php SaveFrom.net helper【视频下载】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/smartvideo-for-youtube-mytube/ SmartVideo For YouTube]
+
+[https://addons.mozilla.org/zh-cn/firefox/addon/video-downloadhelper/ DownloadHelper ::【视频下载·支持多站】]
+
+[https://addons.mozilla.org/zh-cn/firefox/addon/download-youtube/ Download YouTube Videos as MP4]
+
+[http://userscripts.org/scripts/show/25105 Download YouTube Videos as MP4 for Greasemonkey]
+
+[http://www.internetdownloadmanager.com/support/firefox_integration.html IDM cc 【下载工具IDM的火狐扩展】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/netvideohunter-video-downloade/ NetVideoHunter Video Downloader :: 【视频下载·多站支持】]
+
+
+=== 其他 ===
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/add-bookmark-here-2/ Add Bookmark Here ² ::【方便添加书签】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/dragit-formerly-drag-de-go/ DragIt (formerly Drag de Go) :: 【拖拽】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/instantfox/ InstantFox Quick Search :: 【右键搜索增强】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/status-4-evar/ Status-4-Evar :: 【火狐状态栏】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/easyscreenshot/ 网页截图 :: 【非常好用的网页截图】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/xmarks-sync/ Xmarks Sync ::【在线备份和同步书签】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/image-toolbar/ Image Toolbar ::【图片工具栏】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/febe/versions/?page=1#version-7.1.0 FEBE :: v7.1.0 :: 【备份火狐插件、书签等】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/ie-tab-2-ff-36/ IE Tab V2 (FF 3.5, 4, 5, 6, 7+) :: 【增加IE内核】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/proxmate/ ProxMate - unblock the Internet! :: Firefox 附加组件]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/unmht/ index【让火狐支持保存为MHT】]
+
+[https://addons.mozilla.org/zh-CN/firefox/addon/update-scanner/ Update Scanner :: 【监视网页更新】]
+
