@@ -1,0 +1,194 @@
+== 网络 ==
+[http://www.google.com/intl/zh-CN/inputtools/ Google 输入工具]
+
+[https://archive.org/ 網路時光機]
+
+[http://www.freegroup.org/2014/06/cachedpages/ Cached Pages 當網頁無法打開、資料被刪除時，利用頁庫存檔來找回備份 | 免費資源網路社群]
+
+[https://justpaste.it/ JustPaste.it - 分享文本&图片]
+
+[https://www.text2mindmap.com/ Text 2 Mind Map - Simple mind mapping online]
+
+[http://www.mirc.com/ 聊天mIRC: Internet Relay Chat client]
+
+[http://www.playpcesor.com/2015/12/100-free-download-website.html [年度精選] 辦公室裡一定用得上的100種免費資源下載 - 電腦玩物]
+
+=== ip ===
+[http://ip-check.info/?lang=en IP check]
+
+[http://ipaddress.com/ What Is My IP Address Lookup - IP Tools, Locator, Trace Any IP Address!]
+
+[http://www.myip.cn/ MyIP.cn - 我的IP地址查询，网站综合信息查询，域名注册信息，搜索引擎收录，Alexa排名，Google PR，Sogou PR，反向链接，百度关键字指数]
+
+=== 网络工具 ===
+[http://www.blockedinchina.net/ Blocked in China【测试某个网站是否被中共封锁】]
+
+[http://www.cablemap.info/ Greg's Cable Map【全球互联网海底电缆架设地图】]
+
+[https://support.google.com/a/answer/60764?hl=zh-Hans Google IP 地址范围 - Google Apps Administrator帮助]
+
+[http://cloudmonitor.ca.com/zh_cn/ CA APM Cloud Monitor 网站监控服务 - 性能管理、运行时间统计信息和 SLA 报告]
+
+[http://ping.chinaz.com/ 多个地点Ping服务器 - 站长工具]
+
+=== 免费/低价·VPS ===
+[https://bandwagonhost.com/ Mass VPS hosting on Enterprise equipment - Bandwagon Host]
+
+[http://pritunl.com/tutorial.html Pritunl - Tutorial]
+
+[https://www.runkite.com/ 免费空间Kite]
+
+== 分类 ==
+
+[https://www.google.com/transparencyreport/ 透明度报告 – Google]
+
+=== 匿名邮件 ===
+[http://anonymouse.org/anonemail.html Anonymouse.org【发匿名邮件】]
+
+[https://mailinator.com/ Mailinator]
+
+[http://www.yopmail.com/zh/ YOPmail : 临时、匿名的免费邮箱地址。]
+
+[http://10minutemail.com/10MinuteMail/ 【临时邮箱】 10 分钟邮箱]
+
+=== 安全类 ===
+
+[https://www.virustotal.com/ VirusTotal - 多引擎在线病毒、网址扫描网 【国外】]
+
+[http://www.virscan.org/ VirSCAN.org-多引擎在线病毒扫描网 【国内】]
+
+[https://www.metascan-online.com/ https://www.metascan-online.com/]
+
+[http://prism-break.org/zh-CN/ 粉碎棱镜-安全软件推荐]
+
+https://panopticlick.eff.org/
+
+http://www.ryanvm.net/forum/viewtopic.php?p=137319#137319
+
+https://ciphershed.org/
+
+http://www.useragentstring.com/
+
+http://iphider.org/
+
+=== apk 安卓软件 ===
+
+[http://onlineapk.com/ Apk Downloader | Download [Latest] APK from Google Play Directly]
+
+[http://apps.evozi.com/apk-downloader/ APK Downloader [Latest] Download Directly | Chrome Extension v3 (Evozi Official)]
+
+[http://cn.uptodown.com/android Uptodown软件下载——下载、探索、分享]
+
+=== 资源搜索 ===
+
+[http://www.verycd.gdajie.com/ 逛电驴 - 逛大街网]
+
+[http://www.bttiantang.com/ bt天堂 - bt电影下载]
+
+
+=== 下载工具相关  ===
+
+[http://www.youtubedownloaderhd.com/ Youtube Downloader HD【可下载YouTube高清视频的软件】]
+
+[http://videodroid.org/ VideoDroid.Org【在线视频下载·支持多站】]
+
+[http://www.freegroup.org/2013/12/instadown/ InstaDown 下載或取得 Instagram 上的影片鏈結]
+
+[http://rg3.github.io/youtube-dl/ youtube-dl]
+
+[http://mygod.tk/skylark/ 云雀™ - Mygod 工作室™]
+
+[https://code.google.com/p/goagent/issues/detail?id=17182 youtube最新下载1080p方法]
+
+[http://v.kk.k.vu/ YouTube 镜像【用于视频下载】]
+
+[http://www.freedownloadmanager.org/ Free Download Manager【免费下载软件FDM】]
+
+[http://www.internetdownloadmanager.com/ Internet Download Manager【流行下载软件IDM】]
+
+[http://en.savefrom.net/ SaveFrom.net【在线下载·支持多站·各种格式】]
+
+[http://www.dredown.com/ DreDown.com【在线视频下载·支持多站·包括Instogram】]
+
+[http://www.music-clips.net/ music-clips.net【YouTube视频转mp3及其它视频格式】]
+
+[http://gosong.net/ GoSong.net【搜索和下载歌曲音乐视频】]
+
+[http://www.dvdvideosoft.com/cn/index.htm DVDVideoSoft: YouTube视频下载转换软件]
+
+[https://code.google.com/p/goagent/issues/detail?id=15121 下载 YouTube 视频以及其他墙外大文件的方法]
+
+
+=== 国外网盘 ===
+
+[https://drive.google.com/ Google 云端硬盘]
+
+[https://onedrive.live.com/about/zh-cn/ Microsoft OneDrive]
+
+[https://www.dropbox.com/ Dropbox]
+
+[http://www.bitcasa.com/ Bitcasa Infinite Drive | 您的外部云端硬盘！ | 无限存储]
+
+[http://www.bittorrent.com/sync BitTorrent Sync文件同步软件]
+
+[http://www.freegroup.org/2014/05/multcloud/ MultCloud 合併你的線上空間，同時管理 17 個雲端硬碟服務 | 免費資源網路社群]
+
+[https://my.cl.ly/login My CloudApp - Sign In]
+
+
+=== 免费图床 ===
+
+[http://www.pic100.net/ 云图--免费免注册外链图床]
+
+[http://free.com.tw/free-image-sources-list/ 46 個免費圖庫網站總彙整]
+
+[http://photobucket.com/ Photo and image hosting, free photo galleries, photo editing]
+
+[http://www.shutterstock.com/zh/ 图片库，免版税图片和矢量图 - Shutterstock]
+
+=== 短链接 ===
+
+[http://goo.gl/ goo.gl【Google 短网址】]
+
+[http://git.io/ git.io]
+
+[http://ppt.cc/ PPT 短網址 - 不記名，不排名，膴廣告，真正低調的短網址]
+
+[http://www.dwz.cn/ 百度短网址]
+
+[http://surl.sinaapp.com/ 新浪短链接生成器（JSONP版本）]
+
+=== 实用 ===
+
+[http://cli.im/ 草料二维码生成器]
+
+[http://www.flvcd.com/ FLVCD - 硕鼠官网|FLV下载|视频下载]
+
+[http://www.tool7001.com/ Tool7001--短网址还原-二维条码]
+
+
+== windows软件下载 ==
+
+windows作为一个不安全的系统，连下载软件的方式都很不安全……微软什么时候可以做个正八经的软件管理器？出个正经的软件包格式？
+
+=== 国内下载站点 ===
+[http://www.guofs.com/ 独木成林 - 专注软件分享与优化](貌似被和谐掉了，哈哈这个网站当时觉得很"独立"的。)
+
+[http://www.cr173.com/ 西西软件园]
+
+[http://www.xiazaiba.com/ 下载吧]
+
+[http://www.appinn.com/ 小众软件]
+
+===  便携版软件 (PE)===
+[http://www.portablesoft.org/ 精品绿色便携软件]
+
+[http://www.portableappc.com/ PortableAppC【便携版软件】有中国特色的网站]
+
+[http://portableapps.com/ PortableApps.com【便携版软件】国外网站]
+
+=== 系统环境 ===
+
+主要是C++和.NET，国内有个  [http://www.repaik.com/ 论坛]  提供下载（虽然要注册，但是你可以在站外找）。
+
+你也可以去[https://www.microsoft.com/zh-cn/download/ 微软的下载中心]下载，为什么微软不提供打包下载?
