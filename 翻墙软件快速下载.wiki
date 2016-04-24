@@ -1,27 +1,34 @@
 '''翻墙软件快速下载''',方便新系统或者新手机【免翻墙】下载翻墙软件
 
+== 关键词说明 ==
+
 <br>(.apk)=Android
 <br>(.exe)=Windows
 <br>(.deb)=Debina(Ubuntu/Mint)
 <br>(.deg)= OS X
+<br>Chines=中文
 
+== 官网 ==
+官网最可靠，如果你非常在意安全，你应该在官网下载。
+ 
+* 蓝灯（lantern) Open Internet for Everyone
+https://getlantern.org/
 
-
-== link ==
-
-* 蓝灯（lantern)
-https://github.com/getlantern/lantern/
-
-https://github.com/getlantern/lantern/blob/devel/README.md
 * 赛风（psiphon3）
-https://s3.amazonaws.com/f58p-mqce-k1yj/zh.html
+https://psiphon3.com/zh/download.html
+
 * 自由浏览器（FreeBrowser）
 https://github.com/greatfire/wiki
 
-== Download link ==
+* Tor 洋葱路由
+https://www.torproject.org
 
-不保证最新
+== 免翻墙下载==
+
+不保证最新。
+
 * 蓝灯
+* 官方最新版 https://github.com/getlantern/lantern/
 * [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.exe Windows XP SP 3 and above]
 * [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta.dmg OSX 10.8 and above]
 * [https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-beta-32-bit.deb Ubuntu 14.04 32 bit]
@@ -29,14 +36,22 @@ https://github.com/greatfire/wiki
 * [https://aur.archlinux.org/packages/lantern Arch Linux]
 
 * 赛风
+* 免翻墙镜像（可能非官方提高） https://s3.amazonaws.com/f58p-mqce-k1yj/zh.html
 * https://s3.amazonaws.com/f58p-mqce-k1yj/psiphon3.exe
 * https://s3.amazonaws.com/f58p-mqce-k1yj/PsiphonAndroid.apk
 
 * 自由浏览器
-* https://github.com/greatfire/z/raw/master/FreeBrowser.apk
+* 官方最新版 https://github.com/greatfire/
 
-== test ==
+* Tor
+* 官方最新版 https://github.com/TheTorProject/gettorbrowser
+* 这里是[https://github.com/TheTorProject/gettorbrowser/issues/1 xiaolan提供的教程]，谢谢xiaolan
+
+== 说明 ==
+
+<br>[https://github.com/programthink 编程随想之友] [https://github.com/XL2014 蓝潇之友]
 
 <br>自由门和无界，坐等淘汰。日本筑波大学的VPNGate（maybe因为是Jpanese研发的，引起GFW的某种抗日情节，被大力封锁）。
 <br>其他免费且长期提供的翻墙软件，请各位不惜一切代价地提供（信息）给我们。
 <br>真正地将欢乐share给更多人。
+<br>转载注明来源
