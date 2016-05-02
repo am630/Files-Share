@@ -1,7 +1,7 @@
 ### Files-Share 项目说明
 * 文件分享，小项目共享。如书籍清单、流行翻墙软件免翻墙下载地址、……
-* 本项目的[Issues](https://github.com/am630/Files-Share/issues)  
-* 本项目的[wiki](https://github.com/am630/Files-Share/wiki)写了zeronet和编程随想之友的发展纲要，请各位编程随想之友查阅
+* 本项目的[Issues](https://github.com/am630/am630/issues)  
+* 本项目的[wiki](https://github.com/am630/am630/wiki)写了zeronet和编程随想之友的发展纲要，请各位编程随想之友查阅
 ### 项目列表
 * 进行的项目
  * 书籍清单，主要针对青年人（16-18，18-24，24+）
